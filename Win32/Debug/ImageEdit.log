@@ -1,0 +1,14 @@
+﻿生成启动时间为 2016/6/6 14:49:53。
+     1>项目“C:\Users\summer\Desktop\数字图像处理实验代码\ImageEdit\ImageEdit.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(356,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>CustomBuild:
+         Moc'ing mainwindow.h...
+         系统找不到指定的路径。
+         Uic'ing mainwindow.ui...
+         系统找不到指定的路径。
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(170,5): error MSB6006: “cmd.exe”已退出，代码为 3。
+     1>已完成生成项目“C:\Users\summer\Desktop\数字图像处理实验代码\ImageEdit\ImageEdit.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.97
